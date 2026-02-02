@@ -24,6 +24,7 @@ An AI-powered Career Guidance Chatbot designed to help students explore suitable
 - **Libraries Used:**  
   - `streamlit`  
   - `requests`  
-  - `python-dotenv`  
+  - `python-dotenv`
+  - `google-generativeai`
 
 ---# Career-guidance-chatbot-XII
